@@ -5,4 +5,4 @@ LeetCode #1 — Two Sum ~ TwoSum.cs
 
 LeetCode #2 — Add Two Numbers ~ AddTwoNumbers.cs
 
-LeetCode #3 — Longest Substring Without Repeating Characters
+LeetCode #3 — Longest Substring Without Repeating Characters ~ LengthOfLongestSubstring.cs

@@ -17,15 +17,9 @@ public class Solution
         }
         return s.Substring(start, maxLen);
     }
-    private void Expand(string s,
-                        int left,
-                        int right,
-                        ref int start,
-                        ref int maxLen)
+    private void Expand(string s, int left,  int right,  ref int start,  ref int maxLen)
     {
-        while (left >= 0 &&
-               right < s.Length &&
-               s[left] == s[right])
+        while (left >= 0 &&  right < s.Length && s[left] == s[right])
         {
             int currentLen = right - left + 1;
             if (currentLen > maxLen)

@@ -9,3 +9,5 @@ LeetCode #3 — Longest Substring Without Repeating Characters ~ LengthOfLongest
 
 LeetCode #5 - Longest Palindromic Substring ~ LongestPalindrome.cs
 
+LeetCode #7 - Reverse Integer ~ Reverse.cs
+

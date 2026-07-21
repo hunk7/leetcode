@@ -1,5 +1,5 @@
 # leetcode
-Repository has Problems and Solutions for leetcode Problems { Ganesh Bhadra }
+Repository has Problem Defination and Solution for leetcode Problem statements { Ganesh Bhadra }
 
 LeetCode #1 — Two Sum ~ TwoSum.cs
 

@@ -21,3 +21,5 @@ Leetcode #19 - Remove Nth Node From End of List ~ RemoveNthFromEnd.cs
 
 Leetcode #49 - Group Anagrams ~ GroupAnagrams.cs
 
+Leetcode #121 - Best Time to Buy and Sell Stock ~ MaxProfit.cs
+

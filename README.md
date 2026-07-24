@@ -23,3 +23,7 @@ Leetcode #49 - Group Anagrams ~ GroupAnagrams.cs
 
 Leetcode #121 - Best Time to Buy and Sell Stock ~ MaxProfit.cs
 
+Leetcode #122 - Best Time to Buy and Sell Stock II ~ MaxProfit2.cs
+
+Leetcode #123 - Best Time to Buy and Sell Stock III ~ MaxProfit3.cs
+

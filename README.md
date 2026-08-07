@@ -23,6 +23,8 @@ Leetcode #15 - 3Sum ~ ThreeSum.cs
 
 Leetcode #19 - Remove Nth Node From End of List ~ RemoveNthFromEnd.cs
 
+Leetcode #42 - Trapping Rain Water ~ Trap.cs
+
 Leetcode #49 - Group Anagrams ~ GroupAnagrams.cs
 
 Leetcode #121 - Best Time to Buy and Sell Stock ~ MaxProfit.cs
@@ -30,6 +32,4 @@ Leetcode #121 - Best Time to Buy and Sell Stock ~ MaxProfit.cs
 Leetcode #122 - Best Time to Buy and Sell Stock II ~ MaxProfit2.cs
 
 Leetcode #123 - Best Time to Buy and Sell Stock III ~ MaxProfit3.cs
-
-
 

@@ -37,3 +37,5 @@ Leetcode #123 - Best Time to Buy and Sell Stock III ~ MaxProfit3.cs
 
 Leetcode #167 - Two Sum II - Input Array Is Sorted ~ TwoSum2.cs
 
+Leetcode #424 - Longest Repeating Character Replacement ~ CharacterReplacement.cs
+

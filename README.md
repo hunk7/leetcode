@@ -43,3 +43,5 @@ Leetcode #167 - Two Sum II - Input Array Is Sorted ~ TwoSum2.cs
 
 Leetcode #424 - Longest Repeating Character Replacement ~ CharacterReplacement.cs
 
+Leetcode #875 - Koko Eating Bananas ~ MinEatingSpeed.cs
+

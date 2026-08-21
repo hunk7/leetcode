@@ -49,6 +49,8 @@ Leetcode #424 - Longest Repeating Character Replacement ~ CharacterReplacement.c
 
 Leetcode #503 - Next Greater Element II ~ NextGreaterElements.cs
 
+Leetcode #739 - Daily Temperatures ~ DailyTemperatures.cs
+
 Leetcode #875 - Koko Eating Bananas ~ MinEatingSpeed.cs
 
 Leetcode #1011 - Capacity To Ship Packages Within D Days ~ ShipWithinDays.cs

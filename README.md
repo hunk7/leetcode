@@ -47,6 +47,8 @@ Leetcode #167 - Two Sum II - Input Array Is Sorted ~ TwoSum2.cs
 
 Leetcode #215 - Kth Largest Element in an Array ~ FindKthLargest.cs
 
+Leetcode #347 - Top K Frequent Elements ~ TopKFrequent.cs
+
 Leetcode #424 - Longest Repeating Character Replacement ~ CharacterReplacement.cs
 
 Leetcode #503 - Next Greater Element II ~ NextGreaterElements.cs

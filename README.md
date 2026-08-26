@@ -45,6 +45,8 @@ Leetcode #153 - Find Minimum in Rotated Sorted Array ~ FindMin.cs
 
 Leetcode #167 - Two Sum II - Input Array Is Sorted ~ TwoSum2.cs
 
+Leetcode #215 - Kth Largest Element in an Array ~ FindKthLargest.cs
+
 Leetcode #424 - Longest Repeating Character Replacement ~ CharacterReplacement.cs
 
 Leetcode #503 - Next Greater Element II ~ NextGreaterElements.cs

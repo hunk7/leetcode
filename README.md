@@ -29,6 +29,8 @@ Leetcode #42 - Trapping Rain Water ~ Trap.cs
 
 Leetcode #49 - Group Anagrams ~ GroupAnagrams.cs
 
+Leetcode #56 - Merge Intervals ~ Merge.cs
+
 Leetcode #76 - Minimum Window Substring ~ MinWindow.cs
 
 Leetcode #84 - Largest Rectangle in Histogram ~ LargestRectangleArea.cs

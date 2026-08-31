@@ -55,6 +55,8 @@ Leetcode #347 - Top K Frequent Elements ~ TopKFrequent.cs
 
 Leetcode #424 - Longest Repeating Character Replacement ~ CharacterReplacement.cs
 
+Leetcode #435 - Non-overlapping Intervals ~ EraseOverlapIntervals.cs
+
 Leetcode #503 - Next Greater Element II ~ NextGreaterElements.cs
 
 Leetcode #703 - Kth Largest Element in a Stream ~ KthLargest.cs

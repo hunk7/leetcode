@@ -57,6 +57,39 @@ Constraints:
 The number of nodes in the tree is in the range [0, 2000].
 -1000 <= Node.val <= 1000
 
+Visual Representation of Code Flow with Input: root = [3,9,20,null,null,15,7] ~
+
+Start
+
+Queue: [3]
+
+Process 3
+│
+├─ Add 9
+└─ Add 20
+
+Queue: [9,20]
+Result: [[3]]
+
+--------------------------------
+
+Process 9
+Process 20
+│
+├─ Add 15
+└─ Add 7
+
+Queue: [15,7]
+Result: [[3],[9,20]]
+
+--------------------------------
+
+Process 15
+Process 7
+
+Queue: []
+Result: [[3],[9,20],[15,7]]
+
 Interview Explanation ~
 
 "We need values grouped level by level, which naturally suggests BFS. I use a queue and process one level at a time. Before processing a level, I store the current queue count.

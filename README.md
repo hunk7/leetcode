@@ -69,6 +69,8 @@ Leetcode #435 - Non-overlapping Intervals ~ EraseOverlapIntervals.cs
 
 Leetcode #503 - Next Greater Element II ~ NextGreaterElements.cs
 
+Leetcode #543 - Diameter of Binary Tree ~ DiameterOfBinaryTree.cs
+
 Leetcode #703 - Kth Largest Element in a Stream ~ KthLargest.cs
 
 Leetcode #739 - Daily Temperatures ~ DailyTemperatures.cs

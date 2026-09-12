@@ -75,5 +75,7 @@ Leetcode #901 - Online Stock Span ~ StockSpanner.cs
 
 Leetocde #973 - K Closest Points to Origin ~ KClosest.cs
 
+Leetcode #994 - Rotting Oranges ~ OrangesRotting.cs
+
 Leetcode #1011 - Capacity To Ship Packages Within D Days ~ ShipWithinDays.cs
 

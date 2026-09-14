@@ -63,6 +63,8 @@ Leetcode #200 - Number of Islands ~ NumIslands.cs
 
 Leetcode #215 - Kth Largest Element in an Array ~ FindKthLargest.cs
 
+Leetcode #300 - Longest Increasing Subsequence ~ LengthOfLIS.cs
+
 Leetcode #347 - Top K Frequent Elements ~ TopKFrequent.cs
 
 Leetcode #424 - Longest Repeating Character Replacement ~ CharacterReplacement.cs

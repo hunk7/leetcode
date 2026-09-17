@@ -11,6 +11,8 @@ LeetCode #5 — Longest Palindromic Substring ~ LongestPalindrome.cs
 
 LeetCode #7 — Reverse Integer ~ Reverse.cs
 
+Leetcode #8 - String to Integer (atoi) ~ MyAtoi.cs
+
 LeetCode #9 — Palindrome Number ~ IsPalindrome.cs
 
 Leetcode #11 - Container With Most Water ~ MaxArea.cs

@@ -69,6 +69,8 @@ Leetcode #198 - House Robber ~ Rob.cs
 
 Leetcode #200 - Number of Islands ~ NumIslands.cs
 
+Leetcode #207 - Course Schedule ~ CanFinish.cs
+
 Leetcode #215 - Kth Largest Element in an Array ~ FindKthLargest.cs
 
 Leetcode #300 - Longest Increasing Subsequence ~ LengthOfLIS.cs

@@ -97,6 +97,8 @@ Leetcode #703 - Kth Largest Element in a Stream ~ KthLargest.cs
 
 Leetcode #739 - Daily Temperatures ~ DailyTemperatures.cs
 
+Leetcode #743 - Network Delay Time ~ NetworkDelayTime.cs
+
 Leetcode #875 - Koko Eating Bananas ~ MinEatingSpeed.cs
 
 Leetcode #901 - Online Stock Span ~ StockSpanner.cs

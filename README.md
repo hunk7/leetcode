@@ -52,6 +52,7 @@ Each entry includes the problem, C# source file, primary algorithm, problem-spec
 - **#70 Climbing Stairs** • [`ClimbStairs.cs`](ClimbStairs.cs) • Dynamic Programming • Apply the Fibonacci recurrence using rolling states • `O(n)` time • `O(1)` space
 - **#76 Minimum Window Substring** • [`MinWindow.cs`](MinWindow.cs) • Sliding Window • Expand until valid and contract while preserving required frequencies • `O(n + m)` time • `O(k)` space
 - **#84 Largest Rectangle in Histogram** • [`LargestRectangleArea.cs`](LargestRectangleArea.cs) • Monotonic Stack • Calculate maximum widths when increasing height order breaks • `O(n)` time • `O(n)` space
+- Leetcode #89 - Gray Code ~ GrayCode.cs
 - **#102 Binary Tree Level Order Traversal** • [`LevelOrder.cs`](LevelOrder.cs) • Breadth-First Search • Process queued tree nodes one level at a time • `O(n)` time • `O(w)` space
 - **#121 Best Time to Buy and Sell Stock** • [`MaxProfit.cs`](MaxProfit.cs) • Greedy • Track the minimum price and maximum single-transaction profit • `O(n)` time • `O(1)` space
 - **#122 Best Time to Buy and Sell Stock II** • [`MaxProfit2.cs`](MaxProfit2.cs) • Greedy • Accumulate every positive price difference • `O(n)` time • `O(1)` space

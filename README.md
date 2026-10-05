@@ -79,6 +79,7 @@ Each entry includes the problem, C# source file, primary algorithm, problem-spec
 - **#703 Kth Largest Element in a Stream** • [`KthLargest.cs`](KthLargest.cs) • Fixed-Size Min Heap • Preserve only the largest `k` values received from the stream • `O(log k)` per insertion • `O(k)` space
 - **#739 Daily Temperatures** • [`DailyTemperatures.cs`](DailyTemperatures.cs) • Monotonic Stack • Resolve earlier indices when a warmer temperature is encountered • `O(n)` time • `O(n)` space
 - **#743 Network Delay Time** • [`NetworkDelayTime.cs`](NetworkDelayTime.cs) • Dijkstra’s Algorithm • Relax non-negative weighted edges using a minimum-priority queue • `O((V + E) log V)` time • `O(V + E)` space
+- Leetcode #778 - Swim in Rising Water ~ SwimInWater.cs
 - **#875 Koko Eating Bananas** • [`MinEatingSpeed.cs`](MinEatingSpeed.cs) • Binary Search on Answer • Test whether a candidate eating speed satisfies the hour constraint • `O(n log m)` time • `O(1)` space
 - **#901 Online Stock Span** • [`StockSpanner.cs`](StockSpanner.cs) • Monotonic Stack • Merge consecutive smaller prices into accumulated spans • Amortized `O(1)` per call • `O(n)` space
 - **#973 K Closest Points to Origin** • [`KClosest.cs`](KClosest.cs) • Heap or Quickselect • Rank points using squared Euclidean distance • `O(n log k)` heap time • `O(k)` space

@@ -47,6 +47,7 @@ Each entry includes the problem, C# source file, primary algorithm, problem-spec
 - **#40 Combination Sum II** • [`CombinationSum2.cs`](CombinationSum2.cs) • Backtracking • Sort candidates, skip duplicate branches and use each value once • Exponential time • `O(n)` recursion space
 - **#42 Trapping Rain Water** • [`Trap.cs`](Trap.cs) • Two Pointers • Process the side with the smaller maximum boundary • `O(n)` time • `O(1)` space
 - **#49 Group Anagrams** • [`GroupAnagrams.cs`](GroupAnagrams.cs) • Hash Map • Group strings using a canonical sorted or frequency-based key • `O(n × k log k)` time • `O(n × k)` space
+- Leetcode #51 - N-Queens ~ SolveNQueens.cs
 - **#56 Merge Intervals** • [`Merge.cs`](Merge.cs) • Sorting and Intervals • Sort by starting position and merge overlapping ranges • `O(n log n)` time • `O(n)` output space
 - **#57 Insert Interval** • [`Insert.cs`](Insert.cs) • Interval Processing • Append earlier intervals, merge overlaps and append remaining intervals • `O(n)` time • `O(n)` output space
 - **#70 Climbing Stairs** • [`ClimbStairs.cs`](ClimbStairs.cs) • Dynamic Programming • Apply the Fibonacci recurrence using rolling states • `O(n)` time • `O(1)` space

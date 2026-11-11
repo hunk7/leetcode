@@ -4,22 +4,16 @@ public class Solution
 {
     public int MyAtoi(string s)
     {
-        int i = 0;
-        int n = s.Length;
-        while (i < n && s[i] == ' ') // 1. Skip leading spaces
+        int i = 0, sign = 1, result = 0;
+        while (i < s.Length && s[i] == ' ')
             i++;
-        int sign = 1; // 2. Sign
-        if (i < n && (s[i] == '+' || s[i] == '-'))
-        {
+        if (i < s.Length && (s[i] == '+' || s[i] == '-'))  {
             sign = s[i] == '-' ? -1 : 1;
             i++;
         }
-        int result = 0; // 3. Convert digits
-        while (i < n && char.IsDigit(s[i]))
-        {
+        while (i < s.Length && char.IsDigit(s[i])) {
             int digit = s[i] - '0';
-            // 4. Overflow check
-            if (result > int.MaxValue / 10 || (result == int.MaxValue / 10 && digit > 7))
+            if (result > (int.MaxValue - digit) / 10)
                 return sign == 1 ? int.MaxValue : int.MinValue;
             result = result * 10 + digit;
             i++;
